@@ -1,5 +1,5 @@
 import random
-from .message_gen import display_message
+from message_gen import display_message
 
 while True:
     resposta = input('Deseja receber um concelho?  S/N : ')

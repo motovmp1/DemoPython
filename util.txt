@@ -1,0 +1,7 @@
+como rodar importando python3
+
+https://www.datasciencelearner.com/importerror-attempted-relative-import-parent-package/?utm_content=cmp-true
+
+
+
+
